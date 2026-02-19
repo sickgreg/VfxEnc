@@ -11,3 +11,6 @@ Update your GPU driver
 
 
 <img width="2372" height="1426" alt="VfxEnc_szsMDyt4jz" src="https://github.com/user-attachments/assets/5515f9fd-aaab-4fc2-bc4b-e812ec8e856e" />
+
+
+<img width="1139" height="687" alt="explorer_RcyWENDm03" src="https://github.com/user-attachments/assets/31247c9f-835a-4a76-8b2f-3509cac7686c" />
